@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\bin\Debug\net6.0\sort an obejct.exe
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\bin\Debug\net6.0\sort an obejct.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\bin\Debug\net6.0\sort an obejct.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\bin\Debug\net6.0\sort an obejct.dll
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\bin\Debug\net6.0\sort an obejct.pdb
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\sort an obejct.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\sort an obejct.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\sort an obejct.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\sort an obejct.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\sort an obejct.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\sort an obejct.dll
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\refint\sort an obejct.dll
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\sort an obejct.pdb
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\sort an obejct.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\sort an obejct\obj\Debug\net6.0\ref\sort an obejct.dll

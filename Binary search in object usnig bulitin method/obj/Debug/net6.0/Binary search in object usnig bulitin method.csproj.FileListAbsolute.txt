@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\bin\Debug\net6.0\Binary search in object usnig bulitin method.exe
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\bin\Debug\net6.0\Binary search in object usnig bulitin method.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\bin\Debug\net6.0\Binary search in object usnig bulitin method.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\bin\Debug\net6.0\Binary search in object usnig bulitin method.dll
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\bin\Debug\net6.0\Binary search in object usnig bulitin method.pdb
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\Binary search in object usnig bulitin method.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\Binary search in object usnig bulitin method.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\Binary search in object usnig bulitin method.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\Binary search in object usnig bulitin method.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\Binary search in object usnig bulitin method.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\Binary search in object usnig bulitin method.dll
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\refint\Binary search in object usnig bulitin method.dll
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\Binary search in object usnig bulitin method.pdb
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\Binary search in object usnig bulitin method.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in object usnig bulitin method\obj\Debug\net6.0\ref\Binary search in object usnig bulitin method.dll

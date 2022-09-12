@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\bin\Debug\net6.0\buble sort.exe
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\bin\Debug\net6.0\buble sort.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\bin\Debug\net6.0\buble sort.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\bin\Debug\net6.0\buble sort.dll
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\bin\Debug\net6.0\buble sort.pdb
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\buble sort.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\buble sort.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\buble sort.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\buble sort.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\buble sort.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\buble sort.dll
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\refint\buble sort.dll
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\buble sort.pdb
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\buble sort.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\buble sort\obj\Debug\net6.0\ref\buble sort.dll

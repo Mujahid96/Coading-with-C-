@@ -1,0 +1,5 @@
+H:\C#\OOP in c#\oop-4.9.2022\oop reference\obj\Debug\net6.0\oop reference.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\oop reference\obj\Debug\net6.0\oop reference.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\oop reference\obj\Debug\net6.0\oop reference.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\oop reference\obj\Debug\net6.0\oop reference.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\oop reference\obj\Debug\net6.0\oop reference.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\bin\Debug\net6.0\Binary search in an obejct.exe
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\bin\Debug\net6.0\Binary search in an obejct.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\bin\Debug\net6.0\Binary search in an obejct.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\bin\Debug\net6.0\Binary search in an obejct.dll
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\bin\Debug\net6.0\Binary search in an obejct.pdb
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\Binary search in an obejct.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\Binary search in an obejct.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\Binary search in an obejct.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\Binary search in an obejct.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\Binary search in an obejct.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\Binary search in an obejct.dll
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\refint\Binary search in an obejct.dll
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\Binary search in an obejct.pdb
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\Binary search in an obejct.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\Binary search in an obejct\obj\Debug\net6.0\ref\Binary search in an obejct.dll

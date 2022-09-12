@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\abstract\bin\Debug\net6.0\abstract.exe
+H:\C#\OOP in c#\oop-4.9.2022\abstract\bin\Debug\net6.0\abstract.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\abstract\bin\Debug\net6.0\abstract.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\abstract\bin\Debug\net6.0\abstract.dll
+H:\C#\OOP in c#\oop-4.9.2022\abstract\bin\Debug\net6.0\abstract.pdb
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\abstract.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\abstract.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\abstract.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\abstract.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\abstract.dll
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\refint\abstract.dll
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\abstract.pdb
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\abstract.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\abstract\obj\Debug\net6.0\ref\abstract.dll

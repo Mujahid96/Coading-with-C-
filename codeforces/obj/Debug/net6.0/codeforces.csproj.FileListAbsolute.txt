@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\bin\Debug\net6.0\codeforces.exe
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\bin\Debug\net6.0\codeforces.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\bin\Debug\net6.0\codeforces.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\bin\Debug\net6.0\codeforces.dll
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\bin\Debug\net6.0\codeforces.pdb
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\codeforces.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\codeforces.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\codeforces.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\codeforces.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\codeforces.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\codeforces.dll
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\refint\codeforces.dll
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\codeforces.pdb
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\codeforces.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\codeforces\obj\Debug\net6.0\ref\codeforces.dll

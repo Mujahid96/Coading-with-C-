@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\bin\Debug\net6.0\stack in csharp.exe
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\bin\Debug\net6.0\stack in csharp.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\bin\Debug\net6.0\stack in csharp.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\bin\Debug\net6.0\stack in csharp.dll
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\bin\Debug\net6.0\stack in csharp.pdb
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\stack in csharp.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\stack in csharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\stack in csharp.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\stack in csharp.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\stack in csharp.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\stack in csharp.dll
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\refint\stack in csharp.dll
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\stack in csharp.pdb
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\stack in csharp.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\stack in csharp\obj\Debug\net6.0\ref\stack in csharp.dll

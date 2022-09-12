@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\datypse.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\datypse.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\datypse.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\datypse.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\datypse.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\datypse\bin\Debug\net6.0\datypse.exe
+H:\C#\OOP in c#\oop-4.9.2022\datypse\bin\Debug\net6.0\datypse.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\datypse\bin\Debug\net6.0\datypse.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\datypse\bin\Debug\net6.0\datypse.dll
+H:\C#\OOP in c#\oop-4.9.2022\datypse\bin\Debug\net6.0\datypse.pdb
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\datypse.dll
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\refint\datypse.dll
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\datypse.pdb
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\datypse.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\datypse\obj\Debug\net6.0\ref\datypse.dll
