@@ -1,91 +1,96 @@
-﻿// C# program to implement basic stack
-// operations
-using System;
-
-namespace ImplementStack
+﻿using System;
+namespace stack
 {
-    class Stack
-    {
-        private int[] ele;
+    public class stack{
+      private int[] arr;
         private int top;
         private int max;
-        public Stack(int size)
+
+       public stack(int size)
         {
-            ele = new int[size]; // Maximum size of Stack
+            arr = new int[size];
             top = -1;
             max = size;
         }
-
-        public void push(int item)
+        public void push(int value)
         {
             if (top == max - 1)
             {
-                Console.WriteLine("Stack Overflow");
-                return;
+                Console.WriteLine("Stack is full and you can not insert to the stack");
             }
             else
             {
-                ele[++top] = item;
+                top++;
+                arr[top] = value;
             }
+
         }
 
-        public int pop()
+        public void pop()
         {
             if (top == -1)
             {
-                Console.WriteLine("Stack is Empty");
-                return -1;
+                Console.WriteLine("Stack is empty");
             }
             else
             {
-                Console.WriteLine("{0} popped from stack ", ele[top]);
-                return ele[top--];
+                
+                arr[top--] = 0;
             }
+
         }
 
         public int peek()
         {
             if (top == -1)
             {
-                Console.WriteLine("Stack is Empty");
+                Console.WriteLine(top);
                 return -1;
             }
             else
             {
-                Console.WriteLine("{0} popped from stack ", ele[top]);
-                return ele[top];
+                Console.WriteLine($"Peek data from stack {arr[top]}");
+                return arr[top];
+                
+
             }
         }
 
-        public void printStack()
+        public void print()
         {
-            if (top == -1)
+            for (int i = 0; i <= top; i++)
             {
-                Console.WriteLine("Stack is Empty");
-                return;
-            }
-            else
-            {
-                for (int i = 0; i <= top; i++)
-                {
-                    Console.WriteLine("{0} pushed into stack", ele[i]);
-                }
+                Console.WriteLine(arr[i]);
             }
         }
+
     }
 
-    // Driver program to test above functions
-    class Program
-    {
-        static void Main()
-        {
-            Stack p = new Stack(5);
 
-            p.push(10);
-            p.push(20);
-            p.push(30);
-            p.printStack();
-            p.pop();
+
+
+    class program
+    {
+
+       static void Main(string[] args)
+        {
+            Console.WriteLine("Stack in C#");
+            stack st = new stack(5);
+            st.push(25);
+            st.push(14);
+            st.push(147);
+            st.push(785);
+            st.push(987);
+            st.push(1477);
+            st.print();
+            Console.WriteLine("*************");
+            st.pop();
+            st.pop();
+            st.pop();
+          
+            st.print();
+
+            st.peek();
         }
     }
 }

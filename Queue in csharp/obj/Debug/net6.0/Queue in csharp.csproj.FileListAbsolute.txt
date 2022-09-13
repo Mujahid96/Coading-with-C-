@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\Queue in csharp.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\Queue in csharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\Queue in csharp.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\Queue in csharp.AssemblyInfo.cs
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\Queue in csharp.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\bin\Debug\net6.0\Queue in csharp.exe
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\bin\Debug\net6.0\Queue in csharp.deps.json
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\bin\Debug\net6.0\Queue in csharp.runtimeconfig.json
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\bin\Debug\net6.0\Queue in csharp.dll
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\bin\Debug\net6.0\Queue in csharp.pdb
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\Queue in csharp.dll
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\refint\Queue in csharp.dll
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\Queue in csharp.pdb
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\Queue in csharp.genruntimeconfig.cache
+H:\C#\OOP in c#\Queue in csharp\Queue in csharp\obj\Debug\net6.0\ref\Queue in csharp.dll
