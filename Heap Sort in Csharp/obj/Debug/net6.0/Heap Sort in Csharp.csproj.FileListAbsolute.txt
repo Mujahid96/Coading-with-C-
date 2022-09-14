@@ -1,0 +1,15 @@
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\bin\Debug\net6.0\Heap Sort in Csharp.exe
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\bin\Debug\net6.0\Heap Sort in Csharp.deps.json
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\bin\Debug\net6.0\Heap Sort in Csharp.runtimeconfig.json
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\bin\Debug\net6.0\Heap Sort in Csharp.dll
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\bin\Debug\net6.0\Heap Sort in Csharp.pdb
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\Heap Sort in Csharp.csproj.AssemblyReference.cache
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\Heap Sort in Csharp.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\Heap Sort in Csharp.AssemblyInfoInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\Heap Sort in Csharp.AssemblyInfo.cs
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\Heap Sort in Csharp.csproj.CoreCompileInputs.cache
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\Heap Sort in Csharp.dll
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\refint\Heap Sort in Csharp.dll
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\Heap Sort in Csharp.pdb
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\Heap Sort in Csharp.genruntimeconfig.cache
+H:\C#\OOP in c#\oop-4.9.2022\Heap Sort in Csharp\obj\Debug\net6.0\ref\Heap Sort in Csharp.dll

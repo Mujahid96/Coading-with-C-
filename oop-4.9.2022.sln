@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binary search in object usn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice csharp", "Practice csharp\Practice csharp.csproj", "{595B0EF8-CDA9-40BF-8324-2525624D586D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack in csharp", "stack in csharp\stack in csharp.csproj", "{5246B36C-D242-47C2-B655-B379ACC009A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stack in csharp", "stack in csharp\stack in csharp.csproj", "{5246B36C-D242-47C2-B655-B379ACC009A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heap Sort in Csharp", "Heap Sort in Csharp\Heap Sort in Csharp.csproj", "{CABF77DC-0664-451E-8EA2-BDB4791A6432}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{5246B36C-D242-47C2-B655-B379ACC009A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5246B36C-D242-47C2-B655-B379ACC009A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5246B36C-D242-47C2-B655-B379ACC009A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABF77DC-0664-451E-8EA2-BDB4791A6432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABF77DC-0664-451E-8EA2-BDB4791A6432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABF77DC-0664-451E-8EA2-BDB4791A6432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABF77DC-0664-451E-8EA2-BDB4791A6432}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
