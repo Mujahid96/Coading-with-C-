@@ -45,12 +45,18 @@ namespace heapsort
         static void Main(string[] args)
         {
 
-            int[] heaparray = { 1, 12, 6, 5, 10, 3 };
+            int[] heaparray = { 1, 12, 6, 5, 10, 3 ,0,5};
 
             for(int i=heaparray.Length-1; i>=0; i--)
             {
                 heapify(heaparray, i, heaparray.Length - 1);
             }
+            Console.WriteLine("After Heapify");
+            foreach (int val in heaparray)
+            {
+                Console.Write($"{val} ");
+            }
+            Console.WriteLine("\nAfter final heapyfied sorted array");
 
          
             
@@ -71,6 +77,7 @@ namespace heapsort
             {
                 Console.Write($"{val} ");
             }
+            Console.ReadKey();
 
         }
     }
